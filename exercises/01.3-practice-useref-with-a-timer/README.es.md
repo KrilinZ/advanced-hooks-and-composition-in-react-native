@@ -12,7 +12,7 @@ fkglResult: 16.73
 En esta práctica, implementarás un **temporizador funcional** que puede **iniciarse y detenerse** correctamente.  
 Utilizarás **`useRef`** para guardar el **ID del intervalo**, evitando que el componente se re-renderice cada vez que el contador aumenta.  De esta forma, aprenderás cómo `useRef` permite manejar valores mutables sin afectar la interfaz.  
 
-**Coloca tu código dentro de la plantilla [`react-native-hello`](https://github.com/4GeeksAcademy/react-native-hello)** para ejecutarlo y observar cómo el temporizador funciona en tiempo real.
+**Coloca tu código dentro de la plantilla [`react-native-cli-hello`](https://github.com/breatheco-de/react-native-cli-hello)** para ejecutarlo y observar cómo el temporizador funciona en tiempo real.
 
 ```javascript
 import React, { useRef, useState, useEffect } from 'react';
