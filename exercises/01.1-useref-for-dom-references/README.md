@@ -35,7 +35,7 @@ export default function LoginScreen() {
 ### Practical challenge
 
 **Practical activity:**  
-- Use the [`react-native-hello`](https://github.com/4GeeksAcademy/react-native-hello) template to test this concept.  
+- Use the [`react-native-cli-hello`](https://github.com/breatheco-de/react-native-cli-hello) template to test this concept.  
 - Implement a small form with **two text fields** and a **button**.  
 - When the user presses the button, use **`useRef`** so that the focus automatically moves from the **first field** to the **second**.
 
