@@ -10,7 +10,7 @@ fkglResult: 16.73
 In this practice, you will implement a **functional timer** that can be **started and stopped** correctly.  
 You will use **`useRef`** to store the **interval ID**, avoiding the component re-rendering every time the counter increases.  This way, you will learn how `useRef` allows handling mutable values without affecting the interface.
 
-**Place your code inside the [`react-native-hello`](https://github.com/4GeeksAcademy/react-native-hello) template** to run it and see how the timer works in real time.
+**Place your code inside the [`react-native-cli-hello`](https://github.com/breatheco-de/react-native-cli-hello) template** to run it and see how the timer works in real time.
 
 ```javascript
 import React, { useRef, useState, useEffect } from 'react';
