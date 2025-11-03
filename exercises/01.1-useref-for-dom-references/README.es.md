@@ -37,7 +37,7 @@ export default function LoginScreen() {
 ### Desafío práctico
 
 **Actividad práctica:**  
-- Usa la plantilla [`react-native-hello`](https://github.com/4GeeksAcademy/react-native-hello) para poner a prueba este concepto.  
+- Usa la plantilla [`react-native-cli-hello`](https://github.com/breatheco-de/react-native-cli-hello) para poner a prueba este concepto.  
 - Implementa un pequeño formulario con **dos campos de texto** y un **botón**.  
 - Cuando el usuario presione el botón, utiliza **`useRef`** para que el foco pase automáticamente del **primer campo** al **segundo**.  
 
